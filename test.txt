@@ -1,6 +1,10 @@
 Hello World!
 This is a demo.
-Aqui es un demo.
+<<<<<<< HEAD
+
+=======
+Random stuff
+>>>>>>> origin/master
 Bonjour le Monde!
 
 Hola Senorita
